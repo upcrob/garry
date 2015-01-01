@@ -1,12 +1,11 @@
 # garry
 
 This file and the associated source code written
-by Rob Upcraft at Bethel University
-http://www.robupcraft.com
+by Rob Upcraft at Bethel University.
 
 This is the archived code (I'm no longer actively maintaining it) for the chess program I wrote to complete a senior project during my undergraduate studies.  The program (nicknamed "Garry", after [Garry Kasparov](http://en.wikipedia.org/wiki/Garry_Kasparov)), is a basic implementation of a chess AI's middlegame play.
 
-Note that this is meant to be used as a reference for other students or tinkerers interested in the subject of computer chess.  Because it was an academic project, the code was primarily exploratory; common goals like security and code quality were not necessarily leading priorities and as such, portions of the implementation shouldn't necessarily be mimicked (especially for production use).  That said, its overall simplicity may allow it to serve as a suppliment to other resources.  For a good discussion of computer chess, I highly recommend reading [Behind Deep Blue](http://press.princeton.edu/titles/7342.html). 
+Note that this is meant to be used as a reference for other students or tinkerers interested in the subject of computer chess.  Because it was an academic project, the code was primarily exploratory; common goals like security and code quality were not necessarily leading priorities and as such, portions of the implementation shouldn't necessarily be mimicked (especially for production use).  That said, its overall simplicity may allow it to serve as a supplement to other resources.  For a good discussion of computer chess, I highly recommend reading [Behind Deep Blue](http://press.princeton.edu/titles/7342.html). 
 
 ## Building
 
