@@ -9,7 +9,7 @@ Note that this is meant to be used as a reference for other students or tinkerer
 
 ## Building
 
-This chess program can, in theory, be compiled and run on a beowulf supercomputing cluster supporting MPI (I've only tested it on the Bethel University department's cluster, however).  To build an executable, simply run the Makefile.  Note that the MPI library and C++ compiler are required.
+This chess program can, in theory, be compiled and run on a Beowulf supercomputing cluster supporting MPI (I've only tested it on the Bethel University department's cluster, however).  To build an executable, simply run the Makefile.  Note that the MPI library and C++ compiler are required.
 
 ## Compilation Options
 
